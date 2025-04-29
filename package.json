@@ -1,0 +1,15 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "Realiza CRUD de produtos",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest --coverage"
+  },
+  "author": "Gabriel Sbruzzi",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
