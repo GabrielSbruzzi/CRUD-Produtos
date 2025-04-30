@@ -1,4 +1,4 @@
-# 📦 Produto Repository
+# 📦 CRUD Produto
 
 Este é um pequeno repositório de produtos desenvolvido em JavaScript puro, com operações básicas de CRUD (Create, Read, Update, Delete) e testes automatizados utilizando Jest.
 
